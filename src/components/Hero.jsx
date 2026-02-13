@@ -2,7 +2,7 @@ function Hero() {
   const socials = [
     {
       name: "github",
-      link: "https://github.com",
+      link: "https://github.com/nishthapnt",
       icon: (
         <svg
           viewBox="0 0 24 24"
@@ -18,7 +18,7 @@ function Hero() {
     },
     {
       name: "linkedin",
-      link: "https://linkedin.com",
+      link: "https://www.linkedin.com/in/nishtha-pant-4a8748268/",
       icon: (
         <svg
           viewBox="0 0 24 24"
@@ -35,7 +35,7 @@ function Hero() {
     },
     {
       name: "email",
-      link: "mailto:nishtha@example.com",
+      link: "mailto:nishthapnt@gmail.com",
       icon: (
         <svg
           viewBox="0 0 24 24"

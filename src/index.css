@@ -6,7 +6,9 @@
 @utility font-lilita {
   font-family: "Lilita One", cursive;
 }
-
+/* *{
+  border: 2px solid grey;
+} */
 
 body {
   background-color: #fafafa;
