@@ -22,7 +22,7 @@ function App() {
       <About />
       
       <Code />
-      {/* <Design /> */}
+      <Design />
       <Contact />
       <Footer /> 
     </>

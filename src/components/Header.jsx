@@ -111,6 +111,7 @@ function Header() {
           {[
             { id: "#about", label: "About" },
             { id: "#code", label: "Projects" },
+            { id: "#design", label: "Design" },
             { id: "#contact", label: "Contact" },
           ].map((item) => (
             <li key={item.id}>
