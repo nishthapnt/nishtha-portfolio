@@ -42,7 +42,7 @@ function Design() {
   return (
     <section id="design" className="py-24 px-6 md:px-16">
       <h2 className="text-4xl font-bold mb-12 text-center">
-        Design
+        Designs & Illustrations
       </h2>
 
       {/* GRID */}
