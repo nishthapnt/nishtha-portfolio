@@ -31,7 +31,7 @@ function Contact() {
 
               {/* Email */}
               <a
-                href="mailto:nishtha@example.com"
+                href="mailto:nishthapnt@gmail.com"
                 className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center 
                            hover:bg-white/20 transition hover:-translate-y-1"
               >
@@ -43,7 +43,7 @@ function Contact() {
 
               {/* LinkedIn */}
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/nishtha-pant-4a8748268/"
                 target="_blank"
                 rel="noreferrer"
                 className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center 
@@ -58,7 +58,7 @@ function Contact() {
 
               {/* GitHub */}
               <a
-                href="https://github.com"
+                href="https://github.com/nishthapnt"
                 target="_blank"
                 rel="noreferrer"
                 className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center 

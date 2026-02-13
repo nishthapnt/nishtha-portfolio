@@ -74,10 +74,10 @@ function Footer() {
                       Connect
                     </h4>
                     <ul className="space-y-2">
-                      <li><a href="https://github.com" target="_blank" rel="noreferrer" className="text-white text-sm hover:text-blue-800 transition">GitHub</a></li>
-                      <li><a href="https://linkedin.com" target="_blank" rel="noreferrer" className="text-white text-sm hover:text-blue-800 transition">LinkedIn</a></li>
-                      <li><a href="mailto:nishtha@example.com" className="text-white text-sm hover:text-blue-800 transition">Email</a></li>
-                      <li><a href="#contact" className="text-white text-sm hover:text-blue-800 transition">Contact</a></li>
+                      <li><a href="https://github/nishthapnt.com" target="_blank" rel="noreferrer" className="text-white text-sm hover:text-blue-800 transition">GitHub</a></li>
+                      <li><a href="https://www.linkedin.com/in/nishtha-pant-4a8748268/" target="_blank" rel="noreferrer" className="text-white text-sm hover:text-blue-800 transition">LinkedIn</a></li>
+                      <li><a href="mailto:nishthapnt@gmail.com" className="text-white text-sm hover:text-blue-800 transition">Email</a></li>
+                      
                     </ul>
                   </div>
 
@@ -99,7 +99,7 @@ function Footer() {
                 <div className="flex gap-4 justify-center">
                   
                   <a
-                    href="https://github.com"
+                    href="https://github/nishthapnt.com"
                     target="_blank"
                     rel="noreferrer"
                     className="w-10 h-10 bg-slate-200 rounded-[10px] flex items-center justify-center 
@@ -114,7 +114,7 @@ function Footer() {
                   </a>
 
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/nishtha-pant-4a8748268/"
                     target="_blank"
                     rel="noreferrer"
                     className="w-10 h-10 bg-slate-200 rounded-[10px] flex items-center justify-center 
@@ -125,7 +125,7 @@ function Footer() {
                   </a>
 
                   <a
-                    href="mailto:nishtha@example.com"
+                    href="mailto:nishthapnt@gmail.com"
                     className="w-10 h-10 bg-slate-200 rounded-[10px] flex items-center justify-center 
                                text-blue-800 transition hover:bg-indigo-200 hover:-translate-y-1"
                   >
