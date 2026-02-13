@@ -4,7 +4,7 @@ import DesignCard from "./DesignCard";
 function Design() {
   const images = [
     { id: 1, src: "./img1.png", title: "Illustration 1", description: "Digital painting inspired by cinematic lighting." },
-    { id: 2, src: "./img2.png", title: "Illustration 2", description: "Soft pastel environment exploration." },
+    { id: 2, src: "./img2.jpeg", title: "Illustration 2", description: "Soft pastel environment exploration." },
     { id: 3, src: "./img3.png", title: "Illustration 3", description: "Character concept design." },
     { id: 4, src: "/img4.png", title: "Illustration 4", description: "Experimental lighting study." },
     { id: 5, src: "/img5.png", title: "Illustration 5", description: "Moody environment study." },
@@ -46,7 +46,7 @@ function Design() {
       </h2>
 
       {/* GRID */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-2">
         {visibleImages.map((img) => (
           <DesignCard
             key={img.id}
